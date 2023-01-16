@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Juliankyalo
-- 👀 I’m interested in Coding and IT operations 
--
+- HTML/CSS - Python 
 
 <!---
 Juliankyalo/Juliankyalo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
